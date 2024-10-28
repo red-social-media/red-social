@@ -16,7 +16,7 @@ packaging==24.1
 pillow==10.4.0
 PyJWT==2.9.0
 python-dotenv==1.0.1
-python-environ 0.4.54
+python-environ==0.4.54
 pytz==2024.2
 PyYAML==6.0.2
 referencing==0.35.1
